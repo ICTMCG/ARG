@@ -1,0 +1,7 @@
+__pycache__
+data/en/*
+data/zh/*
+logs/*
+param_model/*
+run_zh_local.sh
+run_en_local.sh
