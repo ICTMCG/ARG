@@ -4,7 +4,7 @@ Official repository for ["**Bad Actor, Good Advisor: Exploring the Role of Large
 
 ## Dataset
 
-The experimental datasets where can be seen in `data` folder. Note that you can download the datasets only after an ["Application to Use the Datasets from ARG for Fake News Detection"](https://forms.office.com/r/eZELqSycgn) has been submitted.
+The experimental datasets where can be seen in `data` folder. Note that you can download the datasets only after an ["Application to Use the Datasets from ARG for Fake News Detection"](https://forms.office.com/r/DfVwbsbVyM) has been submitted.
 
 ## Code
 

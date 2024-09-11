@@ -2,7 +2,7 @@
 
 ## Access
 
-You will be shared the dataset by email after an ["Application to Use the Datasets from ARG for Fake News Detection"](https://forms.office.com/r/eZELqSycgn) has been submitted.
+You will be shared the dataset by email after an ["Application to Use the Datasets from ARG for Fake News Detection"](https://forms.office.com/r/DfVwbsbVyM) has been submitted.
 
 ## Description
 
